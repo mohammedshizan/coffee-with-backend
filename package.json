@@ -1,0 +1,17 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": " a backend series project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "backend",
+    "node",
+    "javascript"
+  ],
+  "author": "mohammed shizan",
+  "license": "ISC"
+}
